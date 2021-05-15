@@ -3,6 +3,9 @@
 <!--
 **siteEnseada/siteEnseada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Estou criando o meu primeiro site
+estou a procura de emprego
+faz dosi anso quen estou desempregado
 
 
 - 🔭 I’m currently working on ...
